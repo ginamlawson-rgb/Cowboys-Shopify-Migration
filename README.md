@@ -140,3 +140,4 @@ Shopify ↔ Cowboys Integration Layer ↔ Breeze API
 - Breeze class list  
 - Integration architecture diagram
 
+Local VS Code setup complete.
